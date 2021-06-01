@@ -1,0 +1,23 @@
+{
+    "name": "file_system_organizer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "file_system.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IMUK23/file_system_organizer.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bin": {
+        "peppy": "file_system.js"
+    },
+    "bugs": {
+        "url": "https://github.com/IMUK23/file_system_organizer/issues"
+    },
+    "homepage": "https://github.com/IMUK23/file_system_organizer#readme"
+}
